@@ -51,11 +51,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-### **Changes made**:
-1. I separated **Step 1: Clone the Repository** from the rest of the steps to make the flow more logical.
-2. Each step is now clearly marked to avoid confusion.
-3. Made sure **Contribute** section is clear, with no mix-up between contributing steps and cloning.
 
----
 
 
