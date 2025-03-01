@@ -24,7 +24,7 @@ To get started, clone this repository to your local machine using the following 
 git clone https://github.com/yourusername/AetherX-DevHub.git
 
 
-```bash Step 2: Explore the Resources
+ Step 2: Explore the Resources
 Once you've cloned the repository, take some time to explore the resources and documentation within it. These resources will help you understand the project better.
 
 Step 3: Contribute to the Project
