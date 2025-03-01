@@ -24,7 +24,7 @@ To get started, clone this repository to your local machine using the following 
 git clone https://github.com/yourusername/AetherX-DevHub.git
 
 
-Step 2: Explore the Resources
+```bash Step 2: Explore the Resources
 Once you've cloned the repository, take some time to explore the resources and documentation within it. These resources will help you understand the project better.
 
 Step 3: Contribute to the Project
@@ -58,4 +58,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-This should be much clearer now! Let me know if it looks good or if you'd like further changes.
+
