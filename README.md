@@ -17,17 +17,11 @@ Welcome to **AetherX-DevHub**, a community-driven hub for developers! Whether yo
 
 ## Getting Started
 
-### Step 1: Clone the repository
-To get started, clone this repository to your local machine:
 
-```bash
-git clone https://github.com/yourusername/AetherX-DevHub.git
-
-
-### Step 2: Explore the Resources
+## Step 1: Explore the Resources
 Explore the resources and documentation provided in the repository.
 
-### Step 3: Start Contributing
+### Step 2: Start Contributing
 If you're interested in contributing, follow the steps below:
 
 Fork the repository.
